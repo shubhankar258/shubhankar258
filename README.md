@@ -86,18 +86,4 @@ Exploring **cloud infrastructure, containerization and backend architecture** to
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhankar258&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shubhankar258&theme=tokyonight" />
-</p>
-
----
-
-## 💭 Quote
-
 > “Build intelligent. Build scalable. Build for impact.”
